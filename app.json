@@ -1,5 +1,5 @@
 {
-    "name": "Telegram Gdrive Search Bot",
+    "name": "ART Gdrive Search Bot",
     "description": "A Telegram Gdrive Search Bot",
     "keywords": [
         "telegram",
@@ -7,9 +7,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/GdriveSearcherBot",
-    "website": "https://github.com/AbirHasan2005/GdriveSearcherBot",
-    "success_url": "https://github.com/AbirHasan2005/GdriveSearcherBot",
+    "repository": "https://github.com/assc0d3r/artgdrivesearch",
+    "website": "https://github.com/assc0d3r/artgdrivesearch",
+    "success_url": "https://github.com/assc0d3r/artgdrivesearch",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
